@@ -1,7 +1,7 @@
 // Program treba zamjenit 2 broja koristeci pointere.
 
 #include<stdio.h>
-#include<conio.h>
+#include<stdlib.h.h>
 
 int main()
 {
